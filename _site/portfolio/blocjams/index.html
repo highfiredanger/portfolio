@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html class="no-js">
+  <head>
+	<meta charset="utf-8">
+	<title>Bloc Jams | Samantha Lynn Harms</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-Frame-Options" content="sameorigin">
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="/css/main.css">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	<!-- Canonical -->
+	<link rel="canonical" href="http://samanthahar.ms/portfolio/blocjams/">
+
+	<!-- RSS -->
+	<link rel="alternate" type="application/atom+xml" title="Samantha Lynn Harms" href="http://samanthahar.ms/feed.xml" />
+
+	<!-- Font Awesome -->
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Google Fonts -->
+	
+	<link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,700italic|Abril+Fatface" rel="stylesheet" type="text/css">
+	
+
+	<!-- KaTeX -->
+	
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.css">
+	<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.js"></script>
+	
+
+	<!-- Google Analytics -->
+	
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-88253709-1', 'auto');
+	ga('send', 'pageview');
+	</script>
+	
+</head>
+
+  <body>
+    <header class="site-header">
+  <nav class="site-nav">
+    <ul>
+      
+      
+      
+      
+      <li>
+        <a class="page-link" href="/about/">
+          About
+        </a>
+      </li>
+      
+      
+      
+      <li>
+        <a class="page-link" href="/contact/">
+          Contact
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </ul>
+  </nav>
+
+  
+  <div class="call-out" 
+  style="background-image: url('/')">
+    <h1 class="site-title">
+      <a href="/">Samantha Lynn Harms</a>
+    </h1>
+    <div class="divider"></div>
+    <h1 class="title">Bloc Jams</h1>
+  </div>
+  
+</header>
+
+    <div class="content">
+      <article >
+  <section class="post-content"><p class="center"><img src="/img/blocjams.png" alt="" /></p>
+
+<h2 id="explanation">Explanation</h2>
+
+<p>Bloc Jams is a dynamic web and mobile music player. The project consists of a landing page, a collection page, and an album page. On the landing page, we use animation to highlight the selling points of the website. On the collection page, the user may select an album to listen to. Finally, on the album page, users may play music from an album of their choice.</p>
+
+<h2 id="problem">Problem</h2>
+
+<p>The most challenging part of the application was building dynamic and intuitive behavior for the music player, making sure the appropriate play or pause button element appears when it is hovered over or clicked, and what must happen to the interface when playing and pausing the music. It is a goal of this project to communicate these states to the user visually, so that they may play and pause the music as they please, in an easy interaction with a friendly user interface.</p>
+
+<h2 id="solution">Solution</h2>
+
+<p>I used JavaScript and jQuery to implement the functionality. I used a clickHandler function to deal with what happens when you click anywhere along the song row, and the proper pause and play behavior. I also used an onHover and an offHover function to specify what the behavior should be when you hover over the row and hover away from the row, and what the state of the buttons should be depending upon whether or not a song is playing.</p>
+
+<p>Using clickHandler, onHover and offHover functions, I implemented the following: when clicking a song to play it, the song number should change to a pause button. When the mouse leaves the table row of the currently playing song, the pause button should remain. When we switch songs, the previously playing song’s table cell should revert the content back to the song number. When we hover over each of the songs that aren’t playing, the play button should still appear; we don’t show the play button when we hover over the playing song.</p>
+
+<p>In the clickHandler function, I wrote code for reverting the song number for currently playing song because the user played a new song. Other cases included switching from a play to pause button to indicate a new song is playing, and also switching from a pause to play button when the current song is paused, with the concurrent functionality of playing or pausing the song, depending upon the circumstance.</p>
+
+<h2 id="results">Results</h2>
+
+<p>The results of this code mean the user is able to click and hover, and see the correct buttons, in addition to the correct song-playing behavior.</p>
+
+<p>Otherwise, on the home page, we animated the selling points so that they appear when the user scrolls down the page a certain length. The animation triggers when the user scrolls 200px into the selling points area. Otherwise, if their screen is already large enough, we animate the points automatically.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>I spent this project coding with JavaScript and jQuery, as well as implementing complicated music player behavior that affords the user an intuitive and delightful experience. I also made this website mobile-friendly by using media queries, so the user can play their songs even on a smaller device, like a phone or tablet. I implemented and learned a lot during this project, and feel well-equipped to tackle music applications in the future.</p>
+</section>
+</article>
+
+<!-- Disqus -->
+
+
+    </div>
+    <script src="/js/main.js"></script>
+
+
+<footer class="site-footer">
+  <p class="text">Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
+</p>
+</footer>
+
+
+  </body>
+</html>

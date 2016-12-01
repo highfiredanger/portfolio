@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samantha Lynn Harms</title>
+    <atom:link href="http://samanthahar.ms/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>http://samanthahar.ms/</link>
+    <description>A personal portfolio and blog website</description>
+    <pubDate>Thu, 01 Dec 2016 11:11:27 -0700</pubDate>
+    
+      <item>
+        <title>Why Am I Learning to Code?</title>
+        <link>http://samanthahar.ms/2016/11/29/why-am-i-learning-to-code.html</link>
+        <guid isPermaLink="true">http://samanthahar.ms/2016/11/29/why-am-i-learning-to-code.html</guid>
+        <description>&lt;p&gt;Before I went to Bloc for school, I was hunting for product jobs. I’ve had a few different roles in tech companies: QA, Product, and Marketing, with Product Management always being my favorite. Though, I had several interactions that made me think that it was becoming inevitable for a product person to have a technical background. One interview I had focused so completely on a few undeveloped technical skills I had in my LinkedIn profile that I started to feel a shift. Maybe coding was my next step towards professional proficiency? Similarly, my product mentor started to feel like he needed a technical skill set of his own, and began to learn Ruby.&lt;/p&gt;
+
+&lt;p&gt;Further, my own experience had once told me things were missing too. I suspected I had a knowledge gap because common product tasks like looking at estimates with developers sometimes felt hollow, like I didn’t have the entirety of the information I needed in order to succeed. Like being colorblind, I suspected I didn’t know what I was missing.&lt;/p&gt;
+
+&lt;p&gt;This is where coding comes in.&lt;/p&gt;
+
+&lt;p&gt;I feel code is key in moving forward in this industry for me. In a product role, I think that understanding code will give me a greater confidence when talking to the dev side of the business, and a greater knowledge of what’s functionally possible when drawing up use cases. My tentative plan though is getting a job as a developer for awhile and keep learning new skills, but hey, wouldn’t hurt to look at product positions while I hunt, too. My goal is to work at a place with great culture and a product I can be passionate about. Will I be in product or in development? I can’t wait to find out, and I’ll have the technical knowledge to succeed either way.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Nov 2016 00:00:00 -0700</pubDate>
+      </item>
+    
+      <item>
+        <title>So I'm Learning To Code</title>
+        <link>http://samanthahar.ms/2016/11/29/so-i'm-learning-to-code.html</link>
+        <guid isPermaLink="true">http://samanthahar.ms/2016/11/29/so-i'm-learning-to-code.html</guid>
+        <description>&lt;p&gt;Wow, what a journey so far. Coding? It’s not as easy as it sounds in that ubiquitous promise of learning in just a few short weeks, at least not for me.&lt;/p&gt;
+
+&lt;p&gt;Learning to code has been one of the most difficult scholastic endeavors of my life, but sure enough, I am learning. Each week I get more competent, gaining a sharper ability to write and read code, and understanding what my mentor says better and better. I look back on old code from when I was first starting and wow! How could I not know exactly what that meant like I do now? The learning is happening, even if it’s slower than I expected, and even if I don’t necessarily feel it on a daily basis.&lt;/p&gt;
+
+&lt;p&gt;As I’ve gotten further along in my studies, I have noticed that my subconscious does a lot of thinking for me. If I have a particularly hard problem, it helps to walk away and give my brain a chance to mull it over. I know I might not be able to do this at a job necessarily, but I hope that I can. Maybe this is how most people work and it’s a common practice for those in coding roles.&lt;/p&gt;
+
+&lt;p&gt;Does one need to be naturally good at coding to succeed? I don’t know, but I know it hasn’t come quickly to me. A friend of mine says that learning to code has a core competency: perseverence. One is basically learning to get through what seem like impossible problems, over and over. I am definitely getting better at technological troubleshooting, at writing and reading code.&lt;/p&gt;
+
+&lt;p&gt;If you’re learning how to code and you find it intensely challenging, don’t give up. Ask for help when you can get it. Go to school if you don’t want to go it alone. Google it, a lot! Or, go to a place like Bloc where you have a one-on-one mentor and ask lots of questions. If you’re feeling discouraged, don’t worry. You can do it!&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Nov 2016 00:00:00 -0700</pubDate>
+      </item>
+    
+      <item>
+        <title>Of Bloc-ers and Blockers</title>
+        <link>http://samanthahar.ms/2016/11/29/Bloc-ers-and-Blockers.html</link>
+        <guid isPermaLink="true">http://samanthahar.ms/2016/11/29/Bloc-ers-and-Blockers.html</guid>
+        <description>&lt;p&gt;For the last couple of months I’ve been going to school at a place called Bloc, based out of San Francisco, the birthplace of my boyfriend (so it must be good). I’m learning Full Stack Web Development there, things like HTML/CSS, JavaScript, jQuery, AngularJS, Ruby and more.&lt;/p&gt;
+
+&lt;p&gt;There are definite positives–and definite negatives, too. My first day was a nightmare; I was caught off-guard by several blocker bugs in their software that was helping me learn. But as my mentor said, there are always blockers. This is so true, and has been true for me my whole time programming. The point is to get good enough to move past these blockers by either doubling down, or getting help, which is where the mentor often comes in.&lt;/p&gt;
+
+&lt;p&gt;My mentor happens to be amazing. Raj is great at explaining complicated concepts several different ways, which I need. I never understand that cruel saying, “If you can’t do, teach”. This makes no sense to me because teachers have to have extra skills, and they must know their subject matter so well that they can explain it to others. He certainly embodies that and I am very grateful for his help.&lt;/p&gt;
+
+&lt;p&gt;Also, the whole organization is set up to give students assistance as quickly as possible. Each time I’ve had a problem, there has been a response within an hour and sometimes even a fix that quick. I am very impressed with their team. I can tell that they hustle quite a bit and are dedicated to making Bloc a good experience for students.&lt;/p&gt;
+
+&lt;p&gt;They also have two speeds for the curriculum, I am on the more leisurely of both. I take extra time to learn, so I am grateful for this, too. I don’t think I would have thrived at a shorter code camp. This way, I get more time for extra projects and reading, which I really appreciate.&lt;/p&gt;
+
+&lt;p&gt;Now, for the negatives. There have been quite a few bugs in the learning software. Thankfully that was mostly in the beginning, using a tool called Workshop. I think the tool has been trashed, so good riddance.&lt;/p&gt;
+
+&lt;p&gt;I also think the curriculum sometimes takes very large leaps in the learning. It’s sometimes as though the author doesn’t remember how difficult it was to learn and so don’t notice the large leaps (ok, maybe it wasn’t difficult for them). Anyway, I’m doing my best despite this.&lt;/p&gt;
+
+&lt;p&gt;Phew! The negatives are over. That wasn’t too bad. Overall, Bloc has been a good experience and I feel like I am learning. I might be slower than some but I’m getting there and I feel like the knowledge is building into some solid skills.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 29 Nov 2016 00:00:00 -0700</pubDate>
+      </item>
+    
+  </channel>
+</rss>
